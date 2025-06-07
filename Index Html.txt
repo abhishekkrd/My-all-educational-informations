@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Abhishek Das - Resume</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    max-width: 700px;
+    margin: 20px auto;
+    padding: 15px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+  }
+  h1, h2 {
+    color: #333;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  table, th, td {
+    border: 1px solid #aaa;
+  }
+  th, td {
+    padding: 8px 10px;
+    text-align: left;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+  .section {
+    margin-bottom: 25px;
+  }
+  .declaration {
+    font-style: italic;
+    margin-top: 30px;
+  }
+</style>
+</head>
+<body>
+
+<h1>Abhishek Das</h1>
+<p><strong>Address:</strong> Nawadih, Jharkhand</p>
+<p><strong>Phone:</strong> +91-9341668258</p>
+<p><strong>Email:</strong> abhishekdas@example.com</p>
+
+<div class="section">
+  <h2>Career Objective</h2>
+  <p>To obtain a responsible position in a reputable organization where I can develop my skills and contribute to organizational growth.</p>
+</div>
+
+<div class="section">
+  <h2>Educational Qualification</h2>
+  <table>
+    <tr>
+      <th>Qualification</th>
+      <th>School/College</th>
+      <th>Year</th>
+      <th>Percentage</th>
+      <th>Course</th>
+    </tr>
+    <tr>
+      <td>10th</td>
+      <td>UHS Pattagori School</td>
+      <td>2024</td>
+      <td>75.20%</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>11th (Current)</td>
+      <td>Jamtara College, Jamtara</td>
+      <td>Pursuing</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>Computer Course</td>
+      <td>BCE Jamtara</td>
+      <td>—</td>
+      <td>—</td>
+      <td>ADCA</td>
+    </tr>
+  </table>
+</div>
+
+<div class="section">
+  <h2>Skills</h2>
+  <ul>
+    <li>MS Word, Excel, PowerPoint</li>
+    <li>Typing (40 WPM)</li>
+    <li>Communication skills</li>
+    <li>Basic knowledge of HTML/CSS</li>
+    <li>Teamwork</li>
+  </ul>
+</div>
+
+<div class="section">
+  <h2>Experience</h2>
+  <p>Fresher</p>
+</div>
+
+<div class="section">
+  <h2>Languages Known</h2>
+  <ul>
+    <li>Hindi</li>
+    <li>English</li>
+  </ul>
+</div>
+
+<div class="declaration">
+  <p>I hereby declare that the above information is true to the best of my knowledge.</p>
+  <p><strong>Date:</strong> 7 June 2025</p>
+  <p><strong>Place:</strong> Nawadih</p>
+  <p><strong>Signature:</strong> Abhishek Das</p>
+</div>
+
+</body>
+</html>
